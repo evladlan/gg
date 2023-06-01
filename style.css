@@ -1,0 +1,154 @@
+.logo img{
+  position: absolute;
+width: 150px;
+height: 100px;
+left: 230px;
+top: 30px;
+}
+
+.fon{
+  height: 115vh;
+  background-repeat: no repeat;
+  background-size: cover;
+  background-image: url(images/background\ 1.png);
+}
+
+.Главная{
+  position: relative;
+  margin-top: -56%;
+  color: white;
+  margin-left: 6%;
+width: 105px;
+height: 15.83px;
+left: 545px;
+top: 50px;
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 23px;
+transition: color 0.35s;
+}
+
+.Главная:hover{
+  color: red;
+}
+
+.Отзывы{
+  position: absolute;
+  color: white;
+  margin-top: 1.5%;
+  margin-left: 57%;
+  width: 85px;
+  height: 14px;
+  left: 6px;
+ 
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 23px;
+  transition: color 0.35s;
+}
+
+.Отзывы:hover{
+  color: red;
+}
+
+.Цены{
+position: absolute;
+margin-left: 69%;
+margin-top: 1.5%;
+width: 58px;
+height: 28px;
+color: white;
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 23px; 
+transition: color 0.35s;
+
+}
+
+.Цены:hover{
+     color:red;
+}
+
+.Компания{
+  position: absolute;
+  margin-top: 1.5%;
+  margin-left: 78%;
+color: white;
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 23px;
+transition: color 0.35s;
+}
+
+.Компания:hover{
+  color: red;
+}
+
+.rectangle{
+  position: absolute;
+  margin-top:2%;
+  margin-left: 1.5%;
+width: 190px;
+height: 62.px;
+left: 129px;
+top: 532px;
+background: #FF5E03;
+border-radius: 10px;
+}
+
+.text{
+  position: absolute;
+width: 86px;
+height: 23px;
+left: 179px;
+top: 550px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 23px;
+color: #FFFFFF;
+transition: color 0.35s;
+}
+
+.text:hover{
+  color: black;
+}
+ .book{
+  position: absolute;
+width: 598px;
+height: 134px;
+left: 127px;
+top: 274px;
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 62px;
+
+color: #FFFFFF;
+
+ }
+
+ .Hand{
+  position: absolute;
+width: 449px;
+height: 63px;
+left: 127px;
+top: 425px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+ }
